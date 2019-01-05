@@ -1,0 +1,62 @@
+/* .header{
+  position: absolute;
+} */
+
+/*#img-header{
+  width: 100%;
+  height: 200px;
+  background-image: url('./images/pattern.jepg');
+}*/
+
+.header{
+  background-image: url("../images/pattern.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1{
+  margin: auto;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+.blue{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.coral{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.skyblue{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.img-size{
+  width: 200px;
+  height: 200px;
+}
+
+bold{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+
+}
